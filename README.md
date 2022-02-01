@@ -1,4 +1,4 @@
-## Hi, everyone! 👋
+## Hi, I'm José!
 
 I'm a Machine Learning Engineer from sunny Portugal. 🌞
 
