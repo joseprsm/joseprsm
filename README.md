@@ -1,9 +1,9 @@
-## Hi, I'm José!
+# Hi, I'm José!
 
-I'm a Machine Learning Engineer from sunny Portugal. 🌞
+I'm a Machine Learning Engineer passionate about Digital Marketing, on a mission to bring Artificial Intelligence capabilities to Marketers everywhere. 
 
-Currently creating cool AI products 🤖 for small organizations, to help Marketers unleash their full potential.
+Since I've started my journey in Machine Learning, I've deployed hundreds of models on a number of platforms, all of which with a significant impact on conversion rates and operating costs. 
 
-Love the great outdoors, playing the piano (still on my first steps) and swimming during my free time! ⚡️
+Right now, I'm working as a Machine Learning Engineer, developing tools that guarantee that the Data Scientists' work actually sees the light of day. On my free time, I'm developing a couple of solutions that bring AI and Machine Learning closer to marketers and small business owners.
 
-Let's chat!
+Love to be outdoors, old-school video-games, sci-fi films, coffee and spoiling my cats.
